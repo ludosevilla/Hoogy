@@ -4,13 +4,17 @@
 <tr>
 <td width="35%" valign="top">
 
-<!--
-Add screenshots, animated GIFs or artwork here.
-Example:
 
-![Title screen](images/title.png)
 
--->
+<img src="https://raw.githubusercontent.com/ludosevilla/Hoogy/refs/heads/main/img/boite.png" />
+<br/><br/>
+<img src="https://raw.githubusercontent.com/ludosevilla/Hoogy/refs/heads/main/img/intro.jpg" />
+<br/><br/>
+<img src="https://raw.githubusercontent.com/ludosevilla/Hoogy/refs/heads/main/img/jeu.jpg" />
+<br/><br/>
+<img src="https://raw.githubusercontent.com/ludosevilla/Hoogy/refs/heads/main/img/info.jpg" />
+
+
 
 </td>
 <td width="65%" valign="top">
@@ -39,6 +43,8 @@ As for the sound effects... well, they are what they are! I'm definitely not a m
 
 **Special thanks to Franck for his advice throughout the development of this game.**
 
+<br/><br/>
+<img src="https://raw.githubusercontent.com/ludosevilla/Hoogy/refs/heads/main/img/famille.png" />
 ---
 
 ## 🇫🇷 Français
@@ -65,6 +71,8 @@ Quant aux effets sonores... ils sont ce qu'ils sont ! Je ne suis décidément pa
 
 **Un grand merci à Franck pour les conseils qu'il m'a apportés tout au long du développement de ce jeu.**
 
+<br/><br/>
+<img src="https://raw.githubusercontent.com/ludosevilla/Hoogy/refs/heads/main/img/jeune.png" />
 </td>
 </tr>
 </table>
