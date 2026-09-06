@@ -13,8 +13,8 @@
 <img src="https://raw.githubusercontent.com/ludosevilla/Hoogy/refs/heads/main/img/jeu.jpg" />
 <br/><br/>
 <img src="https://raw.githubusercontent.com/ludosevilla/Hoogy/refs/heads/main/img/info.jpg" />
-
-
+<br/><br/>
+<a href="https://youtu.be/q5sz0QSaJeA" target="_blank">See video</a>
 
 </td>
 <td width="65%" valign="top">
